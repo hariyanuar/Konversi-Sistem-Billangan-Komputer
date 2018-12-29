@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\Konversi Sistem Bilangan Komputer CSharp\Konversi Sistem Bilangan Komputer CSharp\obj\Debug\Konversi Sistem Bilangan Komputer CSharp.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Konversi Sistem Bilangan Komputer CSharp\Konversi Sistem Bilangan Komputer CSharp\obj\Debug\Konversi_Sistem_Bilangan_Komputer_CSharp.Form1.resources
+C:\Users\admin\source\repos\Konversi Sistem Bilangan Komputer CSharp\Konversi Sistem Bilangan Komputer CSharp\obj\Debug\Konversi_Sistem_Bilangan_Komputer_CSharp.Properties.Resources.resources
+C:\Users\admin\source\repos\Konversi Sistem Bilangan Komputer CSharp\Konversi Sistem Bilangan Komputer CSharp\obj\Debug\Konversi Sistem Bilangan Komputer CSharp.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Konversi Sistem Bilangan Komputer CSharp\Konversi Sistem Bilangan Komputer CSharp\obj\Debug\Konversi Sistem Bilangan Komputer CSharp.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Konversi Sistem Bilangan Komputer CSharp\Konversi Sistem Bilangan Komputer CSharp\bin\Debug\Konversi Sistem Bilangan Komputer CSharp.exe.config
+C:\Users\admin\source\repos\Konversi Sistem Bilangan Komputer CSharp\Konversi Sistem Bilangan Komputer CSharp\bin\Debug\Konversi Sistem Bilangan Komputer CSharp.exe
+C:\Users\admin\source\repos\Konversi Sistem Bilangan Komputer CSharp\Konversi Sistem Bilangan Komputer CSharp\bin\Debug\Konversi Sistem Bilangan Komputer CSharp.pdb
+C:\Users\admin\source\repos\Konversi Sistem Bilangan Komputer CSharp\Konversi Sistem Bilangan Komputer CSharp\obj\Debug\Konversi Sistem Bilangan Komputer CSharp.exe
+C:\Users\admin\source\repos\Konversi Sistem Bilangan Komputer CSharp\Konversi Sistem Bilangan Komputer CSharp\obj\Debug\Konversi Sistem Bilangan Komputer CSharp.pdb
